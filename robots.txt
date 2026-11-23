@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://geelongkitchenrenovations.com.au/sitemap.xml
